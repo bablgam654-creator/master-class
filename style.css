@@ -1,6 +1,6 @@
 body{
-    background: rgb(255, 134, 134);
-    color: rgb(134, 0, 0)
+    background: rgb(134, 142, 255);
+    color: rgb(218, 246, 255)
 }
 #container{
     display: flex;
@@ -11,12 +11,12 @@ body{
 }
 
 .item{
-    border: 1px rgb(134, 16, 0) solid;
+    border: 1px rgb(74, 0, 134) solid;
     border-radius: 20px;
     padding: 15px;
     margin: 5px;
     animation: show 1s;
-    background: white;
+    background: rgb(17, 9, 126);
     box-shadow: 0 0 5px 1px black;
 }
 .item > h1{
